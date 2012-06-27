@@ -2,27 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>comment</key>
-	<string>Carmine Paolino</string>
 	<key>name</key>
-	<string>Xcode default</string>
+	<string>Xcode Dusk</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<!-- <string>#1e1f28</string> -->
+				<string>#282b35</string>
 				<key>caret</key>
-				<string>#000000</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#BFBFBF</string>
+				<string>#7f7f7f</string>
 				<key>lineHighlight</key>
-				<string>#00000012</string>
+				<string>#3E3D32</string>
 				<key>selection</key>
-				<string>#B5D5FF</string>
+				<string>#49483E</string>
+				<key>findHighlight</key>
+				<string>#FFE792</string>
+				<key>findHighlightForeground</key>
+				<string>#000000</string>
+				<key>selectionBorder</key>
+				<string>#222218</string>
+				<key>activeGuide</key>
+				<string>#9D550FB0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -33,7 +40,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#008E00</string>
+				<string>#41b645</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,7 +51,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7D4726</string>
+				<string>#c77c48</string>
 			</dict>
 		</dict>
 		<dict>
@@ -60,13 +67,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Character</string>
+			<key>scope</key>
+			<string>string.quoted.single</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#786dc5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3A00DC</string>
+				<string>#786dc5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -80,17 +98,17 @@
 				<string>#C800A4</string>
 			</dict>
 		</dict>
-		<dict>
+		<!-- <dict>
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
-			<string>constant.character, constant.other</string>
+			<string>constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#275A5E</string>
 			</dict>
-		</dict>
+		</dict> -->
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -111,6 +129,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#C800A4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Equals</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,7 +207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#450084</string>
+				<string>#00a0be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -189,7 +218,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#450084</string>
+				<string>#00a0be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -200,7 +229,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#450084</string>
+				<string>#00a0be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,7 +240,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#790EAD</string>
+				<string>#00a0be</string>
 			</dict>
 		</dict>
 		<dict>
@@ -222,7 +251,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#790EAD</string>
+				<string>#00a0be</string>
 			</dict>
 		</dict>
 		<dict>
