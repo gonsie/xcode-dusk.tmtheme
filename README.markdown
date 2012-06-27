@@ -1,4 +1,4 @@
-# Xcode default.tmTheme
+# Xcode Dusk.tmTheme
 
 A [TextMate][] theme based on the [Xcode][] dusk theme.
 
