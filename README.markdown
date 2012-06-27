@@ -1,6 +1,6 @@
 # Xcode default.tmTheme
 
-A [TextMate][] theme based on the default [Xcode][] theme.
+A [TextMate][] theme based on the [Xcode][] dusk theme.
 
 
 ## Installation
