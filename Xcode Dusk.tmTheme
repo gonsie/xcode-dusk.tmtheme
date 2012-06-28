@@ -95,7 +95,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C800A4</string>
+				<string>#b21889</string>
 			</dict>
 		</dict>
 		<!-- <dict>
@@ -117,7 +117,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C800A4</string>
+				<string>#b21889</string>
 			</dict>
 		</dict>
 		<dict>
@@ -128,7 +128,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C800A4</string>
+				<string>#b21889</string>
 			</dict>
 		</dict>
 		<dict>
@@ -150,7 +150,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C900A4</string>
+				<string>#b21889</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,7 +178,10 @@
 			<key>scope</key>
 			<string>entity.name.function</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#83c157</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
