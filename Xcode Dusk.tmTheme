@@ -78,6 +78,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Other Markup</string>
+			<key>scope</key>
+			<string>markup.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#49483E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
